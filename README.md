@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityaagarwal1710
+- 👋 Hi, I’m Aditya Agarwal
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning node.js and react
 - 📫 For contact just drop a mail on (Adiagarwal1710@gmail.com)
